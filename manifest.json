@@ -1,0 +1,14 @@
+{
+    "name": "APP1",
+    "short_name": "APP1",
+    "start_url": "index.html",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#303F9F",
+    "icons": [{
+      "src": "images/icons/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    }]
+}
